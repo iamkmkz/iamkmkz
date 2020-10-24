@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>hello world</h1>
-    <h2>finally</h2>
+    <h2>(finally)</h2>
     <p>some projects i've developed (with all means available):</p>
     <ul>
         <li><a href="guessrgb.html">guess rgb</a></li>
